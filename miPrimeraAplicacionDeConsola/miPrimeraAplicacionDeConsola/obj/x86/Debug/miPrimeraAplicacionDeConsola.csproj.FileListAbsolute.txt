@@ -1,0 +1,8 @@
+C:\Users\AR00111194\AppData\Local\Temporary Projects\miPrimeraAplicacionDeConsola\bin\Debug\miPrimeraAplicacionDeConsola.exe
+C:\Users\AR00111194\AppData\Local\Temporary Projects\miPrimeraAplicacionDeConsola\bin\Debug\miPrimeraAplicacionDeConsola.pdb
+C:\Users\AR00111194\AppData\Local\Temporary Projects\miPrimeraAplicacionDeConsola\obj\x86\Debug\miPrimeraAplicacionDeConsola.exe
+C:\Users\AR00111194\AppData\Local\Temporary Projects\miPrimeraAplicacionDeConsola\obj\x86\Debug\miPrimeraAplicacionDeConsola.pdb
+C:\Users\AR00111194\documents\visual studio 2010\Projects\miPrimeraAplicacionDeConsola\miPrimeraAplicacionDeConsola\obj\x86\Debug\miPrimeraAplicacionDeConsola.exe
+C:\Users\AR00111194\documents\visual studio 2010\Projects\miPrimeraAplicacionDeConsola\miPrimeraAplicacionDeConsola\obj\x86\Debug\miPrimeraAplicacionDeConsola.pdb
+C:\Users\AR00111194\documents\visual studio 2010\Projects\miPrimeraAplicacionDeConsola\miPrimeraAplicacionDeConsola\bin\Debug\miPrimeraAplicacionDeConsola.exe
+C:\Users\AR00111194\documents\visual studio 2010\Projects\miPrimeraAplicacionDeConsola\miPrimeraAplicacionDeConsola\bin\Debug\miPrimeraAplicacionDeConsola.pdb
