@@ -10,22 +10,40 @@ namespace miPrimeraAplicacionDeConsola
         static void Main(string[] args)
         {
 
-            double nota = 0;
-            double promedio = 0;
+            Console.WriteLine("Ingrese un caracter: ");
 
-            for (int i = 1; i <= 4; i++)
+            char a = Console.Read().ToString()[0];
+
+            if (char.IsDigit(a))
             {
-                Console.WriteLine("Escriba la nota " + i.ToString());
-                nota = double.Parse(Console.ReadLine());
-                promedio += nota;
-            }      
+                Console.WriteLine("Ingresaste un número");
+            }
+            else
+            {
+                if (char.IsLetter(a)) {
+                    if (char.IsLower(a))
+                    {
+                        Console.WriteLine("Es una letra en minus");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Es una letra en mayus");
 
-            promedio = promedio / 4;
+                    }
+
+                }
+                else
+                {
+                    Console.WriteLine("No es ni letra ni número");
+                }
+            }
+            
+
        
-            Console.WriteLine("El promedio es: " + promedio);
+            
             Console.WriteLine();
             Console.WriteLine("Toque una tecla para salir");
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
